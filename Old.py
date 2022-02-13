@@ -1,6 +1,6 @@
 #!/bin/user/python2
-pkg install nano
-nano sajib
+
+
 
 import requests
 import pyshorteners
